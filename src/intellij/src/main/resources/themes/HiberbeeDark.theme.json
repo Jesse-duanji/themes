@@ -1,5 +1,5 @@
 {
-  "name": "Hiberbee Dark",
+  "name": "Hiberbee Dark Jesse",
   "author": "Vlad Volkov",
   "dark": true,
   "editorScheme": "/colors/Dark.icls",
@@ -149,7 +149,7 @@
         "background": "dark7",
         "foreground": "light4"
       },
-      "selectionBackground": "dark4",
+      "selectionBackground": "#6e722b",
       "foreground": "light8",
       "matchForeground": "accent"
     },

@@ -14,9 +14,8 @@ repositories {
 }
 
 intellij {
-  pluginName ="Hiberbee Theme"
-  type = "IC"
-  version = "LATEST-EAP-SNAPSHOT"
+  pluginName ="Hiberbee Theme Jesse"
+  version = '2021.2'
 }
 
 java {
@@ -39,4 +38,5 @@ publishPlugin {
 patchPluginXml {
   changeNotes = """Compatibility fixes related to new UI changes in 2023.1."""
   version = project.version
+  untilBuild = "2023.*"
 }

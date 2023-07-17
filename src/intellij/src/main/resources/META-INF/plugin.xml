@@ -42,7 +42,7 @@
   <depends>com.intellij.modules.lang</depends>
   <idea-version since-build="231"/>
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="HiberbeeDark" path="/themes/HiberbeeDark.theme.json"/>
+    <themeProvider id="HiberbeeDarkJesse" path="/themes/HiberbeeDark.theme.json"/>
     <registryKey key="ide.experimental.ui.tree.selection" defaultValue="false" restartRequired="false"
                  description="New UI for selected tree nodes (Hiberbee theme modified, IDE default: true)"/>
   </extensions>
